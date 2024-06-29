@@ -22,16 +22,16 @@ We've put together the following guidelines to help you figure out where you can
 There are many ways you can directly contribute to the guides (in descending order of need):
 
 * Fix editorial inconsistencies or inaccuracies
-* [Translate guides into other languages](docs/translations.md)
+* [ترجمة الأدلة إلى لغات أخرى.](مستندات/ترجمات.MD)
 
-Interested in contributing to this Open Source Guide? Read on!
+هل أنت مهتم بالمساهمة في دليل المصدر المفتوح هذا؟ إقرأ!
 
-## Ground rules & expectations
+## القواعد والتوقعات الأساسية.
 
-Before we get started, here are a few things we expect from you (and that you should expect from others):
+قبل أن نبدأ، إليك بعض الأشياء التي نتوقعها منك (والتي يجب أن تتوقعها من الآخرين):
 
-* Be kind and thoughtful in your conversations around this project. We all come from different backgrounds and projects, which means we likely have different perspectives on "how open source is done." Try to listen to others rather than convince them that your way is correct.
-* Open Source Guides are released with a [Contributor Code of Conduct](./CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
+* كن لطيفًا ومدروسًا في محادثاتك حول هذا المشروع. نحن جميعًا نأتي من خلفيات ومشاريع مختلفة، مما يعني أنه من المحتمل أن يكون لدينا وجهات نظر مختلفة حول "كيفية الانتهاء من المصادر المفتوحة". حاول الاستماع إلى الآخرين بدلاً من إقناعهم بأن طريقك صحيح.
+* يتم إصدار أدلة المصدر المفتوح مع [Contributor Code of Conduct](./CODE_OF_CONDUCT.md)من خلال المشاركة في هذا المشروع، فإنك توافق على الالتزام بشروطه.
 * Please ensure that your contribution passes all tests if you open a pull request. If there are test failures, you will need to address them before we can merge your contribution.
 * When adding content, please consider if it is widely valuable. Please don't add references or links to things you or your employer have created, as others will do so if they appreciate it.
 
